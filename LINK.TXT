@@ -1,1 +1,2 @@
 https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
+https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=-Rh3-Vt9Nev9
